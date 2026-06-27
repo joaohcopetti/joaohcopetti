@@ -53,7 +53,7 @@ Projetos que desenvolvi e posso compartilhar publicamente, nenhum deles teve ger
 #### Aplicação com API do GitHub ([repositório](https://github.com/JohnHammerSky/github-search-interface))
 Busca e oferece uma visualização de perfis do GitHub com algumas informações básicas.
 
-#### Mollama - Simple interface for Ollama ([repositório](https://github.com/JohnHammerSky/mollama))
+#### Mollama - Interface simples para Ollama ([repositório](https://github.com/JohnHammerSky/mollama))
 Aplicação de chat para conversar com LLMs locais ou na núvem do [Ollama](https://ollama.com/)
 
 #### Análise da Loterias Caixa ([repositório](https://github.com/JohnHammerSky/lottery-analysis))
