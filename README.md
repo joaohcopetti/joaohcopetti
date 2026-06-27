@@ -6,7 +6,7 @@
 I’ve been working as a programmer for about 8 years, with a focus on web-based technologies. 
 
 ### 🛠️ Skills
-These are some of the technologies I’ve worked with extensively throughout my career.
+These are some of the technologies I’ve worked with extensively throughout my career. I have other, larger-scale projects, but they are private.
 
 - **Backend**: PHP, TypeScript, Laravel, GraphQL, Inertia.js, Node.js, C++, Rust.
 - **Frontend**: Vue, React.js, TailwindCSS, Bootstrap
@@ -37,7 +37,7 @@ Atuo como programador há cerca de 8 anos, com ênfase em tecnologias voltadas p
 
 🛠️ Habilidades  
 
-Essas são algumas das tecnologias com as quais já trabalhei por um bom tempo ao longo da minha trajetória.
+Essas são algumas das tecnologias com as quais já trabalhei por um bom tempo ao longo da minha trajetória. Possuo mais projetos de maior escala, porém são privados.
 
 - **Backend**: PHP, TypeScript, Laravel, GraphQL, Inertia.js, Node.js, C++, Rust.
 - **Frontend**: Vue, React.js, TailwindCSS, Bootstrap
