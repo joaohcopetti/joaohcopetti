@@ -19,7 +19,7 @@ These are some of the technologies I’ve worked with extensively throughout my 
 ### 🚀 Projects
 Projects I’ve developed and can share publicly; none of them involved code generation using LLMs.
 
-#### GitHub API Interface ([repository](https://github.com/JohnHammerSky/github-search-interface))
+#### GitHub API Application ([repository](https://github.com/JohnHammerSky/github-search-interface))
 Searches for and displays GitHub profiles along with some basic information.
 
 #### Mollama - Simple interface for Ollama ([repository](https://github.com/JohnHammerSky/mollama))
@@ -50,7 +50,7 @@ Essas são algumas das tecnologias com as quais já trabalhei por um bom tempo a
 <summary>🚀 Projetos</summary>  
 Projetos que desenvolvi e posso compartilhar publicamente, nenhum deles teve geração de códigos com LLMs.
 
-#### Interface com API do GitHub ([repositório](https://github.com/JohnHammerSky/github-search-interface))
+#### Aplicação com API do GitHub ([repositório](https://github.com/JohnHammerSky/github-search-interface))
 Busca e oferece uma visualização de perfis do GitHub com algumas informações básicas.
 
 #### Mollama - Simple interface for Ollama ([repositório](https://github.com/JohnHammerSky/mollama))
