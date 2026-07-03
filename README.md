@@ -19,13 +19,13 @@ These are some of the technologies I’ve worked with extensively throughout my 
 ### 🚀 Projects
 Projects I’ve developed and can share publicly; none of them involved code generation using LLMs.
 
-#### GitHub API Application ([repository](https://github.com/JohnHammerSky/github-search-interface))
+#### GitHub API Application ([repository](https://github.com/joaohcopetti/github-search-profiles))
 Searches for and displays GitHub profiles along with some basic information.
 
-#### Mollama - Simple interface for Ollama ([repository](https://github.com/JohnHammerSky/mollama))
+#### Mollama - Simple interface for Ollama ([repository](https://github.com/joaohcopetti/mollama))
 A chat application for interacting with local or cloud-based LLMs from [Ollama](https://ollama.com/)
 
-#### Caixa Lottery Analysis ([repository](https://github.com/JohnHammerSky/lottery-analysis))
+#### Caixa Lottery Analysis ([repository](https://github.com/joaohcopetti/lottery-analysis))
 Searches for lottery games and displays them on a dashboard to aid in decision-making and game creation
 </details>
 
