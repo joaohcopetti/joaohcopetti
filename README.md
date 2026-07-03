@@ -50,7 +50,7 @@ Essas são algumas das tecnologias com as quais já trabalhei por um bom tempo a
 <summary>🚀 Projetos</summary>  
 Projetos que desenvolvi e posso compartilhar publicamente, nenhum deles teve geração de códigos com LLMs.
 
-#### Busca de perfis do GitHub ([repositório](https://github.com/joaohcopetti/github-search-interface))
+#### Busca de perfis do GitHub ([repositório](https://github.com/joaohcopetti/github-search-profiles))
 Busca e oferece uma visualização de perfis do GitHub com algumas informações básicas.
 
 #### Mollama - Interface simples para Ollama ([repositório](https://github.com/joaohcopetti/mollama))
