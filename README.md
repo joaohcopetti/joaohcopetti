@@ -14,7 +14,7 @@ These are some of the technologies I’ve worked with extensively throughout my 
 - **DevOps**: Git, GitHub Actions/Pipelines, Docker, Linux, Bash
 - **Testing**: PHPUnit, Cypress, Vitest, Jest
 - **AI**: Prompts, GUFF, MCPs, fine-tuning
-- **Other**: Web scraping, scripts, código-limpo, princípios SOLID
+- **Other**: Web scraping, scripts, clean code, SOLID principles
 
 ### 🚀 Projects
 Projects I’ve developed and can share publicly; none of them involved code generation using LLMs.
@@ -45,7 +45,7 @@ Essas são algumas das tecnologias com as quais já trabalhei por um bom tempo a
 - **DevOps**: Git, GitHub Actions/Pipelines, Docker, Linux, Bash
 - **Testes**: PHPUnit, Cypress, Vitest, Jest
 - **IA**: Prompts, GUFF, MCPs, fine-tuning
-- **Outros**: Web Scraping, Scripts de automação
+- **Outros**: Web Scraping, scripts, código-limpo, princípios SOLID
 <details>
 <summary>🚀 Projetos</summary>  
 Projetos que desenvolvi e posso compartilhar publicamente, nenhum deles teve geração de códigos com LLMs.
