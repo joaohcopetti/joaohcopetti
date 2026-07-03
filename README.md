@@ -19,7 +19,7 @@ These are some of the technologies I’ve worked with extensively throughout my 
 ### 🚀 Projects
 Projects I’ve developed and can share publicly; none of them involved code generation using LLMs.
 
-#### GitHub API Application ([repository](https://github.com/joaohcopetti/github-search-profiles))
+#### GitHub Search Profiles ([repository](https://github.com/joaohcopetti/github-search-profiles))
 Searches for and displays GitHub profiles along with some basic information.
 
 #### Mollama - Simple interface for Ollama ([repository](https://github.com/joaohcopetti/mollama))
@@ -50,7 +50,7 @@ Essas são algumas das tecnologias com as quais já trabalhei por um bom tempo a
 <summary>🚀 Projetos</summary>  
 Projetos que desenvolvi e posso compartilhar publicamente, nenhum deles teve geração de códigos com LLMs.
 
-#### Aplicação com API do GitHub ([repositório](https://github.com/joaohcopetti/github-search-interface))
+#### Busca de perfis do GitHub ([repositório](https://github.com/joaohcopetti/github-search-interface))
 Busca e oferece uma visualização de perfis do GitHub com algumas informações básicas.
 
 #### Mollama - Interface simples para Ollama ([repositório](https://github.com/joaohcopetti/mollama))
