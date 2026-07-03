@@ -14,7 +14,7 @@ These are some of the technologies I’ve worked with extensively throughout my 
 - **DevOps**: Git, GitHub Actions/Pipelines, Docker, Linux, Bash
 - **Testing**: PHPUnit, Cypress, Vitest, Jest
 - **AI**: Prompts, GUFF, MCPs, fine-tuning
-- **Other**: Web scraping, automation scripts
+- **Other**: Web scraping, scripts, código-limpo, princípios SOLID
 
 ### 🚀 Projects
 Projects I’ve developed and can share publicly; none of them involved code generation using LLMs.
