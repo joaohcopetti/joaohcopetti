@@ -8,16 +8,16 @@ I’ve been working as a programmer for about 8 years, with a focus on web-based
 ### 🛠️ Skills
 These are some of the technologies I’ve worked with extensively throughout my career. I have other, larger-scale projects, but they are private.
 
-- **Backend**: PHP, TypeScript, Laravel, GraphQL, Inertia.js, Node.js, C++, Rust.
-- **Frontend**: Vue, React.js, TailwindCSS, Bootstrap
-- **Database**: MySQL, PostgreSQL, Oracle, Data modeling
-- **DevOps**: Git, GitHub Actions/Pipelines, Docker, Linux, Bash
-- **Testing**: PHPUnit, Cypress, Vitest, Jest
-- **AI**: Prompts, GUFF, MCPs, fine-tuning
-- **Other**: Web scraping, scripts, clean code, SOLID principles
+- **Backend**: PHP, Laravel, Node.js, TypeScript, GraphQL, Inertia.js
+- **Frontend**: Vue.js, Nuxt.js, React.js, TailwindCSS, Bootstrap
+- **Database**: MySQL, PostgreSQL, Oracle, NoSQL, Data modeling and architecture
+- **DevOps**: GitHub Actions/Pipelines, Docker, Kubernetes, Linux, Bash
+- **Testing**: PHPUnit/Pest, Cypress, Vitest, Jest
+- **AI**: OpenCode, Claude/Gemini CLI, MCPs, Agent Skills
+- **Other**: GitFlow, TDD, SOLID, OOP, clean code, automation scripts
 
 ### 🚀 Projects
-Projects I’ve developed and can share publicly; none of them involved code generation using LLMs.
+Projects I’ve developed and can share publicly.
 
 #### GitHub Search Profiles ([repository](https://github.com/joaohcopetti/github-search-profiles))
 Searches for and displays GitHub profiles along with some basic information.
