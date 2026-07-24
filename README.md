@@ -39,16 +39,16 @@ Atuo como programador há cerca de 8 anos, com ênfase em tecnologias voltadas p
 
 Essas são algumas das tecnologias com as quais já trabalhei por um bom tempo ao longo da minha trajetória. Possuo outros projetos de maior escala, porém são privados.
 
-- **Backend**: PHP, TypeScript, Laravel, GraphQL, Inertia.js, Node.js, C++, Rust.
-- **Frontend**: Vue, React.js, TailwindCSS, Bootstrap
-- **Database**: MySQL, PostgreSQL, Oracle, Modelagem de dados
-- **DevOps**: Git, GitHub Actions/Pipelines, Docker, Linux, Bash
-- **Testes**: PHPUnit, Cypress, Vitest, Jest
-- **IA**: Prompts, GUFF, MCPs, fine-tuning
-- **Outros**: Web Scraping, scripts, código-limpo, princípios SOLID
+- **Backend**: PHP, Laravel, Node.js, TypeScript, GraphQL, Inertia.js
+- **Frontend**: Vue.js, Nuxt.js, React.js, TailwindCSS, Bootstrap
+- **Database**: MySQL, PostgreSQL, Oracle, NoSQL, Modelagem e arquitetura de dados
+- **DevOps**: GitHub Actions/Pipelines, Docker, Kubernetes, Linux, Bash
+- **Testes**: PHPUnit/Pest, Cypress, Vitest, Jest
+- **IA**: OpenCode, Claude/Gemini CLI, MCPs, Skills de agentes
+- **Outros**: GitFlow, TDD, SOLID, POO, clean code, scripts de automação
 <details>
 <summary>🚀 Projetos</summary>  
-Projetos que desenvolvi e posso compartilhar publicamente, nenhum deles teve geração de códigos com LLMs.
+Projetos que desenvolvi e posso compartilhar publicamente.
 
 #### Busca de perfis do GitHub ([repositório](https://github.com/joaohcopetti/github-search-profiles))
 Busca e oferece uma visualização de perfis do GitHub com algumas informações básicas.
